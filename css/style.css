@@ -1,0 +1,255 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins" sans-serif;
+}
+
+body{
+  padding: 0px 0;
+}
+.container-fluid .navbar-brand {
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform:capitalize;
+    text-wrap: nowrap;
+    font-weight: 600;
+    color: rgb(249, 246, 246);
+    display: flex;
+}
+.d-flex i{
+      cursor: pointer;
+      margin-left:0.5rem;
+      height: 3.5rem;
+      line-height: 3.5rem;
+      width: 3.5rem;
+      text-align: center;
+      font-size: 1.7rem;
+      color: var(--back);
+      border-radius: 50%;
+      background: gray;
+      color: rgb(247, 249, 250);
+      position:relative;
+}
+.d-flex i:hover{
+  color: #698df6;
+  background: var(--green);
+  transform:rotate(360deg);
+}
+.c-item{
+   height: 750px;
+}
+.c-img{
+  height: 100%;
+  object-fit:cover;
+  filter: brightness(0.7);
+
+}
+.carousel-caption h2{
+  width: 100%;
+  letter-spacing: 2px;
+  margin-right: 90rem;
+  padding-top: 100px;
+  text-align: left;
+}
+#button-btn{
+  text-align: right;
+  margin-right: 65rem;
+  display: flex;
+  background-color:#698df6;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  padding: 0.6rem;
+  border-radius: 5px;
+  border: none;
+}
+.carousel-item .btn-primary:hover{
+    background-color: #698df6;
+    color: rgb(255, 253, 253);
+    border-radius: 3PX;
+}
+@media (max-width:991px){
+  .container-fluid .navbar-brand{
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform:capitalize;
+    text-wrap: nowrap;
+    font-weight: 600;
+    color: rgb(249, 246, 246);
+    display: flex;
+  
+  }
+  .carousel-item .btn-primary{
+    text-align: right;
+    margin-right: 65rem;
+    display: flex;
+    background-color:#698df6;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    padding: 0.6rem;
+    border-radius: 5px;
+    border: none;
+  }
+}
+.card-wrapper{
+  column-gap: 60px;
+  text-align: center;
+  justify-content: center;
+}
+.card-img-top{
+  width: 100%;
+  height: 30vh;
+  border-radius: 5px;
+
+}
+#hero{
+    font-size: 2.9rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform:capitalize;
+    text-wrap: nowrap;
+    font-weight: 600;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.card-title{
+  font-size: 1.5rem;
+  font-family: "poppins" sans-serif;
+}
+#card-btn{
+  background-color:#698df6;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  padding: 0.6rem;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
